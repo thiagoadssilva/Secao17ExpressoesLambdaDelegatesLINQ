@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLambda01\ExerciseLambda01\bin\Debug\net6.0\ExerciseLambda01.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLambda01\ExerciseLambda01\bin\Debug\net6.0\ExerciseLambda01.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLambda01\ExerciseLambda01\bin\Debug\net6.0\ExerciseLambda01.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLambda01\ExerciseLambda01\bin\Debug\net6.0\ExerciseLambda01.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLambda01\ExerciseLambda01\bin\Debug\net6.0\ExerciseLambda01.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLambda01\ExerciseLambda01\obj\Debug\net6.0\ExerciseLambda01.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLambda01\ExerciseLambda01\obj\Debug\net6.0\ExerciseLambda01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLambda01\ExerciseLambda01\obj\Debug\net6.0\ExerciseLambda01.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLambda01\ExerciseLambda01\obj\Debug\net6.0\ExerciseLambda01.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLambda01\ExerciseLambda01\obj\Debug\net6.0\ExerciseLambda01.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLambda01\ExerciseLambda01\obj\Debug\net6.0\ExerciseLambda01.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLambda01\ExerciseLambda01\obj\Debug\net6.0\refint\ExerciseLambda01.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLambda01\ExerciseLambda01\obj\Debug\net6.0\ExerciseLambda01.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLambda01\ExerciseLambda01\obj\Debug\net6.0\ExerciseLambda01.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLambda01\ExerciseLambda01\obj\Debug\net6.0\ref\ExerciseLambda01.dll
