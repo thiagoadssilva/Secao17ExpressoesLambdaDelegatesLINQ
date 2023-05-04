@@ -1,0 +1,1 @@
+# Secao17ExpressoesLambdaDelegatesLINQ
