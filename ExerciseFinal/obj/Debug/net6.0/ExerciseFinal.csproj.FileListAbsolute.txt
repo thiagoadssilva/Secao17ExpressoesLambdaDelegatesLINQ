@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseFinal\bin\Debug\net6.0\ExerciseFinal.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseFinal\bin\Debug\net6.0\ExerciseFinal.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseFinal\bin\Debug\net6.0\ExerciseFinal.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseFinal\bin\Debug\net6.0\ExerciseFinal.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseFinal\bin\Debug\net6.0\ExerciseFinal.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseFinal\obj\Debug\net6.0\ExerciseFinal.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseFinal\obj\Debug\net6.0\ExerciseFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseFinal\obj\Debug\net6.0\ExerciseFinal.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseFinal\obj\Debug\net6.0\ExerciseFinal.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseFinal\obj\Debug\net6.0\ExerciseFinal.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseFinal\obj\Debug\net6.0\ExerciseFinal.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseFinal\obj\Debug\net6.0\refint\ExerciseFinal.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseFinal\obj\Debug\net6.0\ExerciseFinal.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseFinal\obj\Debug\net6.0\ExerciseFinal.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseFinal\obj\Debug\net6.0\ref\ExerciseFinal.dll

@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinqArquivo\bin\Debug\net6.0\ExerciseLinqArquivo.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinqArquivo\bin\Debug\net6.0\ExerciseLinqArquivo.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinqArquivo\bin\Debug\net6.0\ExerciseLinqArquivo.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinqArquivo\bin\Debug\net6.0\ExerciseLinqArquivo.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinqArquivo\bin\Debug\net6.0\ExerciseLinqArquivo.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinqArquivo\obj\Debug\net6.0\ExerciseLinqArquivo.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinqArquivo\obj\Debug\net6.0\ExerciseLinqArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinqArquivo\obj\Debug\net6.0\ExerciseLinqArquivo.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinqArquivo\obj\Debug\net6.0\ExerciseLinqArquivo.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinqArquivo\obj\Debug\net6.0\ExerciseLinqArquivo.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinqArquivo\obj\Debug\net6.0\ExerciseLinqArquivo.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinqArquivo\obj\Debug\net6.0\refint\ExerciseLinqArquivo.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinqArquivo\obj\Debug\net6.0\ExerciseLinqArquivo.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinqArquivo\obj\Debug\net6.0\ExerciseLinqArquivo.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinqArquivo\obj\Debug\net6.0\ref\ExerciseLinqArquivo.dll
