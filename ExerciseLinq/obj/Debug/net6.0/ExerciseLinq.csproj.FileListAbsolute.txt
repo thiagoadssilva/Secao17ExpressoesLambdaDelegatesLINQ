@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinq\bin\Debug\net6.0\ExerciseLinq.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinq\bin\Debug\net6.0\ExerciseLinq.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinq\bin\Debug\net6.0\ExerciseLinq.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinq\bin\Debug\net6.0\ExerciseLinq.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinq\bin\Debug\net6.0\ExerciseLinq.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinq\obj\Debug\net6.0\ExerciseLinq.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinq\obj\Debug\net6.0\ExerciseLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinq\obj\Debug\net6.0\ExerciseLinq.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinq\obj\Debug\net6.0\ExerciseLinq.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinq\obj\Debug\net6.0\ExerciseLinq.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinq\obj\Debug\net6.0\ExerciseLinq.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinq\obj\Debug\net6.0\refint\ExerciseLinq.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinq\obj\Debug\net6.0\ExerciseLinq.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinq\obj\Debug\net6.0\ExerciseLinq.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao17ExpressoesLambdaDelegatesLINQ\ExerciseLinq\obj\Debug\net6.0\ref\ExerciseLinq.dll
